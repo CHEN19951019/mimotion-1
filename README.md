@@ -1,5 +1,5 @@
 <div align="center"> 
-<h1 align="center">小米运动刷步数</h1>
+<h1 align="center">小米运动刷步数2</h1>
 
 [![GitHub stars](https://img.shields.io/github/stars/Ysnsn/mimotion?style=flat-square)](https://github.com/Ysnsn/mimotion)
 [![GitHub forks](https://img.shields.io/github/forks/Ysnsn/mimotion?style=flat-square)](https://github.com/Ysnsn/mimotion/network)
